@@ -1,3 +1,3 @@
 # Project name :Adult Cencus Income Prediction
-# Project code:
+# Project link: https://adult-census-incom.herokuapp.com/
 
