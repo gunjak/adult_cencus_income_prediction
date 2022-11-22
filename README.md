@@ -1,3 +1,2 @@
-# adult_income_prediction
+# Project name :Adult Cencus Income Prediction
 
-app: https://prdictincome.herokuapp.com/
